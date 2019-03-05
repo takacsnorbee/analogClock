@@ -1,0 +1,7 @@
+* {
+	box-sizing: border-box;
+}
+
+#myCanvas {
+	background-color: #0a2e38;
+}
